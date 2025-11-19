@@ -54,6 +54,6 @@ An offline app helping exchange students(like me) overcome social anxiety with s
 **Email:** kornnarica@gmail.com
 
 **Links:**
-- **GitHub** https://github.com/kornnarica
-- **Instagram** https://www.instagram.com/kornnarica/
-- **LinkedIn** https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/
+- **GitHub** [https://github.com/kornnarica](url)
+- **Instagram** [https://www.instagram.com/kornnarica/](url)
+- **LinkedIn** [https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/](url)
