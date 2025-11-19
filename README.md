@@ -1,5 +1,5 @@
-# kornnarica.github.io
-My online portfolio showcasing my projects and skills, used for university applications and job opportunities.
+# Kornpong Swatdipong
+## My online portfolio showcasing my projects and skills, used for university applications and job opportunities.
 ## About Me
 Hi! I'm **Your Name**, a Grade 11 exchange student in Canada from Thailand. I'm passionate about computer science and my dream is to get into Bachelor of Computer Science.
 
