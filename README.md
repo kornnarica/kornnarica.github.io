@@ -1,14 +1,14 @@
 # Kornpong Swatdipong
 ## My online portfolio showcasing my projects and skills, used for university applications and job opportunities.
 ## About Me
-Hi! I'm **Your Name**, a Grade 11 exchange student in Canada from Thailand. I'm passionate about computer science and my dream is to get into Bachelor of Computer Science.
+Hi! I'm **Kornpong Swatdipong**, a Grade 11 exchange student in Canada from Thailand. I'm passionate about computer science and my goal is to get into Bachelor of Computer Science.
 
 ### What I'm Learning
 - Data structures and algorithms
 - Mobile development (Swift / iOS)
 - Web development (HTML, CSS, JavaScript, React)
 - Machine learning fundamentals (Python, NumPy, scikit-learn)
-- Game Development (Love2D)
+- Game Development (Löve2D)
 
 ### Why I Love Computer Science
 I love Computer Science because it lets me turn ideas into real tools — building apps, games, and systems that solve problems or help people. There's always something new to learn.
