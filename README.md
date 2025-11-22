@@ -25,7 +25,8 @@ An AI-based CPR training system built with **Swift, Vision, and Core ML**.
 - Research paper submission planned
 
 Find Out More!
-*https://github.com/kornnarica/CPR*
+[https://github.com/kornnarica/CPR](https://github.com/kornnarica/CPR)
+
 
 ### **Catheter Flow Monitoring System**
 A medical sensor project using **dual flow sensors + Flask dashboard**.
@@ -43,13 +44,13 @@ An offline app helping exchange students(like me) overcome social anxiety with s
 - Challenges & journal for reflection
 - Focused on Canadian campus, English only
 
-  [https://github.com/kornnarica/The-Nod](url)
+[https://github.com/kornnarica/The-Nod](https://github.com/kornnarica/The-Nod)
 
 ### **More Projects**
 - CS50 SCIQ Final Project developing an app inspired by Kahoot to teaach biology, chemistry and physics<br>
-[https://github.com/kornnarica/SCIQ](url)
+[https://github.com/kornnarica/SCIQ](https://github.com/kornnarica/SCIQ)
 - ESP32 Bluetooth Mesh network<br>
-[https://github.com/kornnarica/on-off_server](url)
+[https://github.com/kornnarica/on-off_server](https://github.com/kornnarica/on-off_server)
 - Small utilities + ML experiments
 
 ---
@@ -58,6 +59,6 @@ An offline app helping exchange students(like me) overcome social anxiety with s
 **Email:** kornnarica@gmail.com
 
 **Links:**
-- **GitHub** [https://github.com/kornnarica](url)
-- **Instagram** [https://www.instagram.com/kornnarica/](url)
-- **LinkedIn** [https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/](url)
+- **GitHub** [https://github.com/kornnarica](https://github.com/kornnarica)
+- **Instagram** [https://www.instagram.com/kornnarica/](https://www.instagram.com/kornnarica/)
+- **LinkedIn** [https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/](https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/)
