@@ -43,13 +43,13 @@ An offline app helping exchange students(like me) overcome social anxiety with s
 - Challenges & journal for reflection
 - Focused on Canadian campus, English only
 
-  *https://github.com/kornnarica/The-Nod*
+  [https://github.com/kornnarica/The-Nod](url)
 
 ### **More Projects**
 - CS50 SCIQ Final Project developing an app inspired by Kahoot to teaach biology, chemistry and physics
-[https://github.com/kornnarica/SCIQ]
+[https://github.com/kornnarica/SCIQ](url)
 - ESP32 Bluetooth Mesh network
-[https://github.com/kornnarica/on-off_server]
+[https://github.com/kornnarica/on-off_server](url)
 - Small utilities + ML experiments
 
 ---
