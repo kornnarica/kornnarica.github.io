@@ -18,22 +18,22 @@ I love Computer Science because it lets me turn ideas into real tools — buildi
 ## Projects
 Here are some of my favorite projects:
 
+
+### **Catheter Flow Monitoring System**
+<h3>🥇 Gold Award – Thailand New Gen Inventors Award (NRCT, National Level)<h3>
+A medical sensor project using **dual flow sensors + Flask dashboard**.
+- Detects blockages
+- Real-time webpage alerts
+
+[https://github.com/kornnarica/UrinaryCatheterWebsite](https://github.com/kornnarica/UrinaryCatheterWebsite)
+
 ### **RescueReady — AI CPR Trainer**
 An AI-based CPR training system built with **Swift, Vision, and Core ML**.
 - Pose estimation
 - Real-time feedback
 - Research paper submission planned
 
-Find Out More!
 [https://github.com/kornnarica/CPR](https://github.com/kornnarica/CPR)
-
-
-### **Catheter Flow Monitoring System**
-A medical sensor project using **dual flow sensors + Flask dashboard**.
-- Detects blockages
-- Real-time webpage alerts
-
-*Link*
 
 ### **In progress**
 #### **The Nod**
@@ -51,6 +51,8 @@ An offline app helping exchange students(like me) overcome social anxiety with s
 [https://github.com/kornnarica/SCIQ](https://github.com/kornnarica/SCIQ)
 - ESP32 Bluetooth Mesh network<br>
 [https://github.com/kornnarica/on-off_server](https://github.com/kornnarica/on-off_server)
+- Pertussis Detector Website
+[https://github.com/kornnarica/Pertussis-Detector](https://github.com/kornnarica/Pertussis-Detector)
 - Small utilities + ML experiments
 
 ---
