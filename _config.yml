@@ -1,13 +1,1 @@
-title: Kornpong Swatdipong
-description: Student Developer Portfolio
-
-remote_theme: y7kim/agency-jekyll-theme
-
-markdown: kramdown
-
-plugins:
-  - jekyll-include-cache
-
-author:
-  name: Kornpong Swatdipong
-  email: kornnarica@gmail.com
+title: Kornpong Swatdipong description: Student Developer Portfolio remote_theme: mmistakes/minimal-mistakes markdown: kramdown plugins: - jekyll-include-cache author: name: Kornpong Swatdipong email: kornnarica@gmail.com
