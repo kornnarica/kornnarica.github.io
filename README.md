@@ -85,7 +85,7 @@ A mobile app designed to help exchange students overcome **social anxiety** and 
 
 ---
 
-## 🧩 Additional Projects
+##  Additional Projects
 
 -  **SCIQ** — Quiz-based science learning app  
   🔗 [View Repository](https://github.com/kornnarica/SCIQ)
