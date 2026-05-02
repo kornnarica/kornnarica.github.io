@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="banner" width="100%"/>
-</p>
-
 <h1 align="center">Kornpong Swatdipong</h1>
 <p align="center">
   Student Developer • AI • Systems • Healthcare & Education
@@ -15,26 +11,22 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi! I’m **Kornpong Swatdipong**, a Grade 11 exchange student in Canada from Thailand.
 
 I build **AI-driven systems and real-world applications** focused on:
-- 🏥 Healthcare  
-- 📚 Education  
-- ♿ Accessibility  
+-  Healthcare  
+-  Education  
+-  Accessibility  
 
 I enjoy combining **software, AI, and hardware** to create meaningful impact.
 
-🎯 Goal: Pursue a **Bachelor of Computer Science** and continue building impactful technology.
+ Goal: Pursue a **Bachelor of Software Engineering** and continue building impactful technology.
 
 ---
 
-## ⚙️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,swift,react,flask,js,html,css,git,github,c,cpp" />
-</p>
+##  Tech Stack
 
 **Currently exploring:**
 - Data Structures & Algorithms  
@@ -45,14 +37,10 @@ I enjoy combining **software, AI, and hardware** to create meaningful impact.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧪 Catheter Flow Monitoring System  
+### Catheter Flow Monitoring System  
 🥇 Gold Award – Thailand New Gen Inventors Award (NRCT)
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780" width="400"/>
-</p>
 
 A medical monitoring system using **dual flow sensors** and a **Flask-based web dashboard** to improve patient safety.
 
@@ -65,11 +53,7 @@ A medical monitoring system using **dual flow sensors** and a **Flask-based web 
 
 ---
 
-### ❤️ RescueReady — AI CPR Trainer
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b" width="400"/>
-</p>
+###  RescueReady — AI CPR Trainer
 
 An AI-based CPR training and emergency guidance system built using **Swift, Vision, and Core ML**.
 
@@ -83,7 +67,7 @@ An AI-based CPR training and emergency guidance system built using **Swift, Visi
 
 ---
 
-### 🧠 The Nod *(In Progress)*
+### The Nod *(In Progress)*
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1529336953121-ad5a0d43d0d2" width="400"/>
@@ -103,43 +87,31 @@ A mobile app designed to help exchange students overcome **social anxiety** and 
 
 ## 🧩 Additional Projects
 
-- 🧪 **SCIQ** — Quiz-based science learning app  
+-  **SCIQ** — Quiz-based science learning app  
   🔗 [View Repository](https://github.com/kornnarica/SCIQ)
 
-- 🔌 **ESP32 Bluetooth Mesh Network**  
+-  **ESP32 Bluetooth Mesh Network**  
   Multi-node communication system  
   🔗 [View Repository](https://github.com/kornnarica/on-off_server)
 
-- 🤖 **Pertussis Detector Website**  
+-  **Pertussis Detector Website**  
   AI-powered disease detection web app  
   🔗 [View Repository](https://github.com/kornnarica/Pertussis-Detector)
 
 ---
 
-## 📊 GitHub Stats
+##  Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kornnarica&show_icons=true&theme=tokyonight" />
-</p>
+ Email: kornnarica@gmail.com  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kornnarica&theme=tokyonight" />
-</p>
-
----
-
-## 📬 Contact
-
-📧 Email: kornnarica@gmail.com  
-
-🔗 Links:  
+ Links:  
 - GitHub: https://github.com/kornnarica  
 - LinkedIn: https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/  
 - Instagram: https://www.instagram.com/kornnarica/  
 
 ---
 
-## 💡 Final Note
+##  Final Note
 
 I’m always looking to learn, build, and collaborate on meaningful projects.  
 If you’re working on something in **AI, healthcare, or education**, feel free to reach out.
