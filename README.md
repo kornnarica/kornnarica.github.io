@@ -1,145 +1,108 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475" alt="banner" width="100%"/>
-</p>
+# Kornpong Swatdipong
 
-<h1 align="center">Kornpong Swatdipong</h1>
-<p align="center">
-  Student Developer • AI • Systems • Healthcare & Education
-</p>
+**Student Developer | AI • Systems • Healthcare & Education**
 
-<p align="center">
-  <a href="https://github.com/kornnarica">GitHub</a> •
-  <a href="https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/">LinkedIn</a> •
-  <a href="https://www.instagram.com/kornnarica/">Instagram</a>
-</p>
+This is my online portfolio showcasing selected projects and technical interests, created for **university applications** and **future job opportunities**.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hi! I’m **Kornpong Swatdipong**, a Grade 11 exchange student in Canada from Thailand.
+Hi! I’m **Kornpong Swatdipong**, a Grade 11 exchange student in Canada from Thailand. I am passionate about computer science and enjoy building real-world systems that combine software, AI, and hardware.
 
-I build **AI-driven systems and real-world applications** focused on:
-- 🏥 Healthcare
-- 📚 Education
-- ♿ Accessibility
-
-I enjoy combining **software, AI, and hardware** to create meaningful impact.
-
-🎯 Goal: Pursue a **Bachelor of Computer Science** and continue building impactful technology.
+My goal is to pursue a **Bachelor of Computer Science** and continue developing technology that creates meaningful impact in healthcare, education, and accessibility.
 
 ---
 
-## ⚙️ Tech Stack
+## What I’m Learning & Building
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,swift,react,flask,js,html,css,git,github,c,cpp" />
-</p>
-
-**Currently exploring:**
-- Data Structures & Algorithms  
-- Machine Learning (NumPy, scikit-learn)  
-- iOS Development (SwiftUI, Core ML, Vision)  
-- Embedded Systems (ESP32, IoT)  
+- Data Structures and Algorithms
+- Mobile Development (Swift, SwiftUI, iOS)
+- Web Development (HTML, CSS, JavaScript, React, Flask)
+- Machine Learning Fundamentals (Python, NumPy, scikit-learn)
+- Embedded Systems and IoT (ESP32)
 - Game Development (LÖVE2D)
 
 ---
 
-## 🚀 Featured Projects
+## Why Computer Science
 
-### 🧪 Catheter Flow Monitoring System  
-🥇 Gold Award – Thailand New Gen Inventors Award (NRCT)
+I love computer science because it allows me to transform ideas into functional tools — from applications and websites to embedded systems and AI-driven solutions.
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581092921461-eab62e97a780" width="400"/>
-</p>
-
-A medical monitoring system using **dual flow sensors** and a **Flask-based web dashboard** to improve patient safety.
-
-**Key Features**
-- Real-time flow monitoring  
-- Blockage detection  
-- Web-based alerts  
-
-🔗 https://github.com/kornnarica/UrinaryCatheterWebsite
+The constant challenge of problem-solving and learning new technologies motivates me to keep exploring and improving.
 
 ---
 
-### ❤️ RescueReady — AI CPR Trainer
+## Projects
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b" width="400"/>
-</p>
+### Catheter Flow Monitoring System  
+**🥇 Gold Award – Thailand New Gen Inventors Award (NRCT, National Level)**
+
+A medical monitoring system using **dual flow sensors** and a **Flask-based web dashboard** designed to improve patient safety.
+
+**Key features**
+- Detects catheter blockages and abnormal flow
+- Provides real-time alerts through a web interface
+
+Repository:  
+https://github.com/kornnarica/UrinaryCatheterWebsite
+
+---
+
+### RescueReady — AI CPR Trainer
 
 An AI-based CPR training and emergency guidance system built using **Swift, Vision, and Core ML**.
 
-**Key Features**
-- Real-time pose estimation  
-- CPR posture feedback  
-- Privacy-focused (no video storage)  
-- Research paper in progress  
+**Key features**
+- Real-time pose estimation using body keypoints
+- Feedback on CPR posture and technique
+- Privacy-focused design with no video storage
+- Research paper submission planned
 
-🔗 https://github.com/kornnarica/CPR
-
----
-
-### 🧠 The Nod *(In Progress)*
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1529336953121-ad5a0d43d0d2" width="400"/>
-</p>
-
-A mobile app designed to help exchange students overcome **social anxiety** and adapt to new environments.
-
-**Key Features**
-- Interactive campus tools  
-- Conversation prompts  
-- Reflection journal  
-- Challenge-based system  
-
-🔗 https://github.com/kornnarica/The-Nod
+Repository:  
+https://github.com/kornnarica/CPR
 
 ---
 
-## 🧩 Additional Projects
+### The Nod *(In Progress)*
 
-- **SCIQ** — Quiz-based science learning app  
-  https://github.com/kornnarica/SCIQ  
+An offline mobile app designed to help exchange students overcome social anxiety and adapt to school and campus life.
+
+**Key features**
+- Interactive campus map
+- Location-specific conversation icebreakers
+- Swipe-to-save toolkit
+- Reflection journal and challenges
+- Focused on Canadian campuses (English only)
+
+Repository:  
+https://github.com/kornnarica/The-Nod
+
+---
+
+## Additional Projects
+
+- **SCIQ** — CS50 Final Project  
+  A quiz-based science learning app inspired by Kahoot  
+  https://github.com/kornnarica/SCIQ
 
 - **ESP32 Bluetooth Mesh Network**  
-  Multi-node communication system  
-  https://github.com/kornnarica/on-off_server  
+  Multi-node communication using ESP32 microcontrollers  
+  https://github.com/kornnarica/on-off_server
 
 - **Pertussis Detector Website**  
-  AI-powered disease detection web app  
-  https://github.com/kornnarica/Pertussis-Detector  
+  AI-powered web application for pertussis detection  
+  https://github.com/kornnarica/Pertussis-Detector
+
+- Small utilities and machine learning experiments
 
 ---
 
-## 📊 GitHub Stats
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kornnarica&show_icons=true&theme=tokyonight" />
-</p>
+**Email:** kornnarica@gmail.com  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kornnarica&theme=tokyonight" />
-</p>
-
----
-
-## 📬 Contact
-
-📧 Email: kornnarica@gmail.com  
-
-🔗 Links:  
-- GitHub: https://github.com/kornnarica  
-- LinkedIn: https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/  
-- Instagram: https://www.instagram.com/kornnarica/  
-
----
-
-## 💡 Final Note
-
-I’m always looking to learn, build, and collaborate on meaningful projects.  
-If you’re working on something impactful in **AI, healthcare, or education**, feel free to reach out.
+**Links**
+- GitHub: https://github.com/kornnarica
+- Instagram: https://www.instagram.com/kornnarica/
+- LinkedIn: https://www.linkedin.com/in/kornpong-swatdipong-4577a5359/
