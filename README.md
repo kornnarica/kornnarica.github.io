@@ -67,11 +67,7 @@ An AI-based CPR training and emergency guidance system built using **Swift, Visi
 
 ---
 
-### The Nod *(In Progress)*
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1529336953121-ad5a0d43d0d2" width="400"/>
-</p>
+### The Nod
 
 A mobile app designed to help exchange students overcome **social anxiety** and adapt to new environments.
 
